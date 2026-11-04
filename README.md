@@ -6,6 +6,7 @@ students, lecturers and any person.\
 It uses object-oriented programming with inheritance.\
 It also shows JDBC usage for basic database operations and connectivity.\
 The project is still under development, but most of it is available for testing.
+
 ---
 ##  Technologies used
 + Java,
@@ -41,16 +42,21 @@ User <ins>must provide</ins> their own database connection when running the app:
 8. Enter your own database details
 ---
 ##    Testing
+
 The Main method is created for any form of black box style test.
 It allows to call methods for any output chosen.
+
 ---
 ##    Development status
+
 Work in progress.\
 Most of the core functionality is implemented and ready for testing.\
 Lecturer class requires future development.\
 Additional functions might be introduced in future updates.
+
 ---
 ##    Future improvements
+
 - [ ] Complete the Lecturer class,
 - [ ] Expand database management functionality,
 - [ ] Improve input validation and error handling,
@@ -61,4 +67,5 @@ Additional functions might be introduced in future updates.
 
 
 ###    Author
+
 [Zofia-Kro](https://github.com/Zofia-Kro)
